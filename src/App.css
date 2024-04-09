@@ -1,0 +1,16 @@
+.profile {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 6px;
+}
+
+.profile button {
+  margin-top: 20px;
+}
+
+.content {
+  display: flex;
+  justify-content: center;
+  padding : 20px
+}
